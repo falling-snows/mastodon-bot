@@ -6,7 +6,7 @@ OnMastodonTootRequest
 }
 */
 
-OnMastodonTootRequest : sequential
+OnMastodonTootRequest
 {
 	//不足と思われる台詞・DPS時のLB
 "キャンプ・ドラゴンヘッドによくきた、冒険者よ。\nまずは暖をとり、旅の疲れと筋肉のコリをほぐすがいい。\n歴戦の冒険者のたくましい肉体……イイ……。"
